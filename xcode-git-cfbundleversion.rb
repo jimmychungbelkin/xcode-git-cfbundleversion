@@ -1,9 +1,11 @@
 #!/usr/bin/ruby
 # xcode-git-cfbundleversion.rb
-# Update CFBundleVersion in Info.plist file with short Git revision string
+# is in the Public Domain (http://en.wikipedia.org/wiki/Public_Domain)
+#
+# This script updates CFBundleVersion in Info.plist file with short Git revision string (need no ruby gems)
 # http://github.com/digdog/xcode-git-cfbundleversion/
 #
-# This is based on
+# Based on
 # http://github.com/jsallis/xcode-git-versioner
 # http://github.com/juretta/iphone-project-tools/tree/v1.0.3
 
